@@ -2,7 +2,7 @@
 title: "EnSyth: A Pruning Approach to Synthesis of Deep Learning Ensembles"
 collection: publications
 permalink: /publication/smc2019-ensyth
-excerpt: 'deep learning, compression, acceleration'
+excerpt: 'deep learning, neural networks, acceleration, compression, ensemble learning, lightweight models'
 date: 2019-Oct-09
 venue: 'SMC2019, IEEE'
 paperurl: 'https://arxiv.org/abs/1907.09286'
