@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate, Visiting Lecturer at Birmingham City University"
   location         : "Birmingham, United Kingdom"
   employer         :
-  pubmed           : "#"
+  pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=F126IR0AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Besher_Alhalabi"
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/458105/besher"
+  stackoverflow    : "/458105/besher"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
